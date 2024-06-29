@@ -16,14 +16,17 @@ And other relevant columns.
 ## Data Preprocessing
 Steps taken to clean and prepare the data:
 - Handling missing values
-- Correcting data types
-- Generating additional columns for analysis (e.g., `gross profit margin`)
+- Correcting data types (e.g., converting strings to numeric values)
+  Parsing and cleaning the cost of shipping column
+- Generating additional columns for analysis, such as gross profit margin and net 
+  profit margin
 
 ## Exploratory Data Analysis
 Key areas explored:
 - Distribution of sales across different product types and brands
 - Analysis of revenue and profit margins
 - Identification of top-selling products
+Tools used for EDA include pandas, matplotlib, and seaborn.
 
 ## Dashboard in Tableau
 A comprehensive dashboard has been created in Tableau to visualize the key insights. The dashboard includes:
@@ -34,5 +37,8 @@ A comprehensive dashboard has been created in Tableau to visualize the key insig
 [Link to Tableau dashboard]
 
 ## Conclusion and Future Work
-Summarize the findings and suggest potential areas for further analysis, such as:
-- Detailed customer segmentation
+This analysis provided valuable insights into the sales performance and customer preferences for furniture products.  
+
+Detailed customer segmentation analysis
+Predictive modeling for future sales trends
+Analyzing the impact of discounts on sales
