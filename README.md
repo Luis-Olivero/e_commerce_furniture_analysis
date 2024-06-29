@@ -11,6 +11,7 @@ The dataset contains various details about furniture sales, including:
 - `quantity sold`
 - `revenue`
 - `gross profit margin`
+  
 And other relevant columns.
 
 ## Data Preprocessing
