@@ -1,4 +1,4 @@
-# E Commerce Rurniture Analysis
+# E Commerce Furniture Analysis
 
 # Project Overview
 This project analyzes sales data from an e-commerce platform focusing on furniture products. The goal is to gain insights into sales performance, customer behavior, and product trends to inform business strategies.
