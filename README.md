@@ -63,7 +63,7 @@ A comprehensive dashboard has been created in Tableau to visualize the key insig
   brands.
 - Profit Margin Insights: Detailed views of gross and net profit margins.
 
-[Link to Tableau dashboard]
+https://public.tableau.com/views/EcommerceFurnitureDashboard/Dashboard1?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 
 ## Conclusion and Future Work
 This analysis provided valuable insights into the sales performance and customer preferences for furniture products. Key findings include:
